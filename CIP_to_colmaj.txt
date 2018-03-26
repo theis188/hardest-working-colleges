@@ -1,0 +1,388 @@
+agriculture general	01.00	General Agriculture
+agricultural business and management	01.01	Agriculture Production And Management
+agricultural mechanization	01.02	Agricultural Economics
+agricultural production operations	01.03	Agriculture Production And Management
+agricultural and food products processing	01.04	Agriculture Production And Management
+agricultural and domestic animal services	01.05	Animal Sciences
+applied horticulture and horticultural business services	01.06	Agriculture Production And Management
+international agriculture	01.07	Agricultural Economics
+agricultural public services	01.08	General Agriculture
+animal sciences	01.09	Animal Sciences
+food science and technology	01.10	Food Science
+plant sciences	01.11	Plant Science And Agronomy
+soil sciences	01.12	Soil Science
+agriculture agriculture operations and related sciences other	01.99	Agriculture Production And Management
+natural resources conservation and research	03.01	Natural Resources Management
+natural resources management and policy	03.02	Natural Resources Management
+fishing and fisheries sciences and management	03.03	Natural Resources Management
+forestry	03.05	Forestry
+wildlife and wildlands science and management	03.06	Forestry
+natural resources and conservation other	03.99	Natural Resources Management
+architecture	04.02	Architecture
+cityurban community and regional planning	04.03	Community And Public Health
+environmental design	04.04	Environmental Engineering
+interior architecture	04.05	Architecture
+landscape architecture	04.06	Architecture
+architectural history and criticism	04.08	Art History And Criticism
+architectural sciences and technology	04.09	Architectural Engineering
+real estate development	04.10	General Business
+architecture and related services other	04.99	Architectural Engineering
+area studies	05.01	Area Ethnic And Civilization Studies
+ethnic cultural minority gender and group studies	05.02	Area Ethnic And Civilization Studies
+communication and media studies	09.01	Communication Technologies
+journalism	09.04	Journalism
+radio television and digital communication	09.07	Communication Technologies
+public relations advertising and applied communication	09.09	Advertising And Public Relations
+publishing	09.10	Journalism
+communication journalism and related programs other	09.99	Journalism
+communications technologytechnician	10.01	Communication Technologies
+audiovisual communications technologiestechnicians	10.02	Communication Technologies
+graphic communications	10.03	Communication Technologies
+communications technologiestechnicians and support services other	10.99	Communication Technologies
+computer and information sciences general	11.01	Computer And Information Systems
+computer programming	11.02	Computer Science
+data processing	11.03	Statistics And Decision Science
+information sciencestudies	11.04	Information Sciences
+computer systems analysis	11.05	Computer Engineering
+data entrymicrocomputer applications	11.06	Engineering Technologies
+computer science	11.07	Computer Science
+computer software and media applications	11.08	Communication Technologies
+computer systems networking and telecommunications	11.09	Computer Networking And Telecommunications
+computerinformation technology administration and management	11.10	Computer Administration Management And Security
+computer and information sciences and support services other	11.99	Computer And Information Systems
+funeral service and mortuary science	12.03	Cosmetology Services And Culinary Arts
+cosmetology and related personal grooming services	12.04	Cosmetology Services And Culinary Arts
+culinary arts and related services	12.05	Cosmetology Services And Culinary Arts
+personal and culinary services other	12.99	Cosmetology Services And Culinary Arts
+education general	13.01	General Education
+bilingual multilingual and multicultural education	13.02	Language And Drama Education
+curriculum and instruction	13.03	Educational Psychology
+educational administration and supervision	13.04	Educational Administration And Supervision
+educationalinstructional media design	13.05	Miscellaneous Education
+educational assessment evaluation and research	13.06	Educational Administration And Supervision
+international and comparative education	13.07	Miscellaneous Education
+social and philosophical foundations of education	13.09	Social Science Or History Teacher Education
+special education and teaching	13.10	Special Needs Education
+student counseling and personnel services	13.11	Educational Psychology
+teacher education and professional development specific levels and methods	13.12	Teacher Education: Multiple Levels
+teacher education and professional development specific subject areas	13.13	Miscellaneous Education
+teaching english or french as a second or foreign language	13.14	Language And Drama Education
+teaching assistantsaides	13.15	Miscellaneous Education
+education other	13.99	General Education
+engineering general	14.01	Engineering Technologies
+aerospace aeronautical and astronautical engineering	14.02	Aerospace Engineering
+agricultural engineering	14.03	Agriculture Production And Management
+architectural engineering	14.04	Architectural Engineering
+biomedicalmedical engineering	14.05	Biomedical Engineering
+ceramic sciences and engineering	14.06	Materials Science
+chemical engineering	14.07	Chemical Engineering
+civil engineering	14.08	Civil Engineering
+computer engineering	14.09	Computer Engineering
+electrical electronics and communications engineering	14.10	Electrical Engineering
+engineering mechanics	14.11	Mechanical Engineering Related Technologies
+engineering physics	14.12	Mechanical Engineering Related Technologies
+engineering science	14.13	Engineering Technologies
+environmentalenvironmental health engineering	14.14	Environmental Engineering
+materials engineering	14.18	Materials Science
+mechanical engineering	14.19	Mechanical Engineering
+metallurgical engineering	14.20	Metallurgical Engineering
+mining and mineral engineering	14.21	Mining And Mineral Engineering
+naval architecture and marine engineering	14.22	Naval Architecture And Marine Engineering
+nuclear engineering	14.23	Nuclear Engineering
+ocean engineering	14.24	Naval Architecture And Marine Engineering
+petroleum engineering	14.25	Petroleum Engineering
+systems engineering	14.27	Miscellaneous Engineering
+textile sciences and engineering	14.28	Miscellaneous Engineering
+polymerplastics engineering	14.32	Materials Science
+construction engineering	14.33	Construction Services
+forest engineering	14.34	Forestry
+industrial engineering	14.35	Miscellaneous Engineering
+manufacturing engineering	14.36	Engineering Technologies
+operations research	14.37	Operations Logistics And E-Commerce
+surveying engineering	14.38	Civil Engineering
+geologicalgeophysical engineering	14.39	Geological And Geophysical Engineering
+paper science and engineering	14.40	Miscellaneous Engineering
+electromechanical engineering	14.41	Electrical Engineering
+mechatronics robotics and automation engineering	14.42	Electrical Engineering
+biochemical engineering	14.43	Biological Engineering
+engineering chemistry	14.44	Chemical Engineering
+biologicalbiosystems engineering	14.45	Biological Engineering
+engineering other	14.99	Engineering Technologies
+engineering technology general	15.00	Engineering Technologies
+architectural engineering technologiestechnicians	15.01	Architectural Engineering
+civil engineering technologiestechnicians	15.02	Civil Engineering
+electrical engineering technologiestechnicians	15.03	Electrical Engineering Technology
+electromechanical instrumentation and maintenance technologiestechnicians	15.04	Electrical, Mechanical, And Precision Technologies And Production
+environmental control technologiestechnicians	15.05	Environmental Engineering
+industrial production technologiestechnicians	15.06	Industrial Production Technologies
+quality control and safety technologiestechnicians	15.07	Industrial Production Technologies
+mechanical engineering related technologiestechnicians	15.08	Mechanical Engineering Related Technologies
+mining and petroleum technologiestechnicians	15.09	Miscellaneous Engineering Technologies
+construction engineering technologies	15.10	Construction Services
+engineeringrelated technologies	15.11	Engineering Technologies
+computer engineering technologiestechnicians	15.12	Computer Programming And Data Processing
+draftingdesign engineering technologiestechnicians	15.13	Mechanical Engineering Related Technologies
+nuclear engineering technologiestechnicians	15.14	Nuclear, Industrial Radiology, And Biological Technologies
+engineeringrelated fields	15.15	Engineering Technologies
+nanotechnology	15.16	Miscellaneous Engineering Technologies
+engineering technologiestechnicians other	15.99	Miscellaneous Engineering Technologies
+linguistic comparative and related language studies and services	16.01	Linguistics And Comparative Language And Literature
+african languages literatures and linguistics	16.02	Linguistics And Comparative Language And Literature
+east asian languages literatures and linguistics	16.03	Linguistics And Comparative Language And Literature
+slavic baltic and albanian languages literatures and linguistics	16.04	Linguistics And Comparative Language And Literature
+germanic languages literatures and linguistics	16.05	Linguistics And Comparative Language And Literature
+modern greek language and literature	16.06	Linguistics And Comparative Language And Literature
+south asian languages literatures and linguistics	16.07	Linguistics And Comparative Language And Literature
+iranianpersian languages literatures and linguistics	16.08	Linguistics And Comparative Language And Literature
+romance languages literatures and linguistics	16.09	Linguistics And Comparative Language And Literature
+american indiannative american languages literatures and linguistics	16.10	Linguistics And Comparative Language And Literature
+middlenear eastern and semitic languages literatures and linguistics	16.11	Linguistics And Comparative Language And Literature
+classics and classical languages literatures and linguistics	16.12	Linguistics And Comparative Language And Literature
+celtic languages literatures and linguistics	16.13	Linguistics And Comparative Language And Literature
+southeast asian and australasianpacific languages literatures and linguistics	16.14	Linguistics And Comparative Language And Literature
+turkic uralicaltaic caucasian and central asian languages literatures and linguistics	16.15	Linguistics And Comparative Language And Literature
+american sign language	16.16	Other Foreign Languages
+foreign languages literatures and linguistics other	16.99	Other Foreign Languages
+work and family studies	19.00	Social Work
+family and consumer scienceshuman sciences general	19.01	Family And Consumer Sciences
+family and consumer scienceshuman sciences business services	19.02	Family And Consumer Sciences
+family and consumer economics and related studies	19.04	Family And Consumer Sciences
+foods nutrition and related services	19.05	Nutrition Sciences
+housing and human environments	19.06	Family And Consumer Sciences
+human development family studies and related services	19.07	Family And Consumer Sciences
+apparel and textiles	19.09	Commercial Art And Graphic Design
+family and consumer scienceshuman sciences other	19.99	Family And Consumer Sciences
+nonprofessional general legal studies undergraduate	22.00	Pre-Law And Legal Studies
+law	22.01	Pre-Law And Legal Studies
+legal research and advanced professional studies	22.02	Pre-Law And Legal Studies
+legal support services	22.03	Pre-Law And Legal Studies
+legal professions and studies other	22.99	Pre-Law And Legal Studies
+english language and literature general	23.01	English Language And Literature
+rhetoric and compositionwriting studies	23.13	Composition And Rhetoric
+literature	23.14	English Language And Literature
+english language and literatureletters other	23.99	English Language And Literature
+liberal arts and sciences general studies and humanities	24.01	Humanities
+library science and administration	25.01	Library Science
+library and archives assisting	25.03	Library Science
+library science other	25.99	Library Science
+biology general	26.01	Biology
+biochemistry biophysics and molecular biology	26.02	Biochemical Sciences
+botanyplant biology	26.03	Botany
+cellcellular biology and anatomical sciences	26.04	Molecular Biology
+microbiological sciences and immunology	26.05	Microbiology
+zoologyanimal biology	26.07	Animal Sciences
+genetics	26.08	Genetics
+physiology pathology and related sciences	26.09	Physiology
+pharmacology and toxicology	26.10	Pharmacology
+biomathematics bioinformatics and computational biology	26.11	Mathematics And Computer Science
+biotechnology	26.12	Biology
+ecology evolution systematics and population biology	26.13	Biology
+molecular medicine	26.14	Molecular Biology
+neurobiology and neurosciences	26.15	Neuroscience
+biological and biomedical sciences other	26.99	Biology
+mathematics	27.01	Mathematics
+applied mathematics	27.03	Applied Mathematics
+statistics	27.05	Statistics And Decision Science
+mathematics and statistics other	27.99	Statistics And Decision Science
+air force rotc air science and operations	28.01	Military Technologies
+army rotc military science and operations	28.03	Military Technologies
+navymarine rotc naval science and operations	28.04	Military Technologies
+military science and operational studies	28.05	Military Technologies
+security policy and strategy	28.06	Public Policy
+military economics and management	28.07	Military Technologies
+military science leadership and operational art other	28.99	Military Technologies
+intelligence command control and information operations	29.02	Military Technologies
+military applied sciences	29.03	Military Technologies
+military systems and maintenance technology	29.04	Military Technologies
+military technologies and applied sciences other	29.99	Military Technologies
+multiinterdisciplinary studies general	30.00	Multi/Interdisciplinary Studies
+biological and physical sciences	30.01	Multi/Interdisciplinary Studies
+peace studies and conflict resolution	30.05	Area Ethnic And Civilization Studies
+systems science and theory	30.06	Political Science And Government
+mathematics and computer science	30.08	Mathematics And Computer Science
+biopsychology	30.10	Cognitive Science And Biopsychology
+gerontology	30.11	Nursing
+historic preservation and conservation	30.12	Public Administration
+medieval and renaissance studies	30.13	Area Ethnic And Civilization Studies
+museologymuseum studies	30.14	Library Science
+science technology and society	30.15	Multi-Disciplinary Or General Science
+accounting and computer science	30.16	Accounting
+behavioral sciences	30.17	Miscellaneous Psychology
+natural sciences	30.18	Physical Sciences
+nutrition sciences	30.19	Nutrition Sciences
+internationalglobal studies	30.20	Intercultural And International Studies
+holocaust and related studies	30.21	Area Ethnic And Civilization Studies
+classical and ancient studies	30.22	Area Ethnic And Civilization Studies
+interculturalmulticultural and diversity studies	30.23	Intercultural And International Studies
+cognitive science	30.25	Cognitive Science And Biopsychology
+cultural studiescritical theory and analysis	30.26	Intercultural And International Studies
+human biology	30.27	Physiology
+dispute resolution	30.28	Public Policy
+maritime studies	30.29	Naval Architecture And Marine Engineering
+computational science	30.30	Computer Science
+human computer interaction	30.31	Multi-Disciplinary Or General Science
+marine sciences	30.32	Naval Architecture And Marine Engineering
+sustainability studies	30.33	Multi-Disciplinary Or General Science
+multiinterdisciplinary studies other	30.99	Multi/Interdisciplinary Studies
+parks recreation and leisure studies	31.01	Physical Fitness Parks Recreation And Leisure
+parks recreation and leisure facilities management	31.03	Physical Fitness Parks Recreation And Leisure
+health and physical educationfitness	31.05	Physical Fitness Parks Recreation And Leisure
+outdoor education	31.06	Physical Fitness Parks Recreation And Leisure
+parks recreation leisure and fitness studies other	31.99	Physical Fitness Parks Recreation And Leisure
+basic skills and developmentalremedial education	32.01	Special Needs Education
+citizenship activities	33.01	Political Science And Government
+healthrelated knowledge and skills	34.01	Physical And Health Education Teaching
+interpersonal and social skills	35.01	Interdisciplinary Social Sciences
+leisure and recreational activities	36.01	Physical Fitness Parks Recreation And Leisure
+personal awareness and selfimprovement	37.01	Special Needs Education
+philosophy and religious studies general	38.00	Philosophy And Religious Studies
+philosophy	38.01	Philosophy And Religious Studies
+religionreligious studies	38.02	Philosophy And Religious Studies
+philosophy and religious studies other	38.99	Philosophy And Religious Studies
+biblebiblical studies	39.02	Philosophy And Religious Studies
+missionsmissionary studies and missiology	39.03	Philosophy And Religious Studies
+religious education	39.04	Philosophy And Religious Studies
+religioussacred music	39.05	Philosophy And Religious Studies
+theological and ministerial studies	39.06	Philosophy And Religious Studies
+pastoral counseling and specialized ministries	39.07	Philosophy And Religious Studies
+theology and religious vocations other	39.99	Philosophy And Religious Studies
+physical sciences	40.01	Physical Sciences
+astronomy and astrophysics	40.02	Astronomy And Astrophysics
+atmospheric sciences and meteorology	40.04	Atmospheric Sciences And Meteorology
+chemistry	40.05	Chemistry
+geological and earth sciencesgeosciences	40.06	Geology And Earth Science
+physics	40.08	Physics
+materials sciences	40.10	Materials Science
+physical sciences other	40.99	Physical Sciences
+science technologiestechnicians general	41.00	Engineering Technologies
+biology technicianbiotechnology laboratory technician	41.01	Medical Technologies Technicians
+nuclear and industrial radiologic technologiestechnicians	41.02	Nuclear, Industrial Radiology, And Biological Technologies
+physical science technologiestechnicians	41.03	Engineering Technologies
+science technologiestechnicians other	41.99	Engineering Technologies
+psychology general	42.01	Psychology
+research and experimental psychology	42.27	Psychology
+clinical counseling and applied psychology	42.28	Clinical Psychology
+psychology other	42.99	Psychology
+criminal justice and corrections	43.01	Criminal Justice And Fire Protection
+fire protection	43.02	Criminal Justice And Fire Protection
+homeland security	43.03	Criminal Justice And Fire Protection
+homeland security law enforcement firefighting and related protective services other	43.99	Criminal Justice And Fire Protection
+human services general	44.00	Human Services And Community Organization
+community organization and advocacy	44.02	Human Services And Community Organization
+public administration	44.04	Public Administration
+public policy analysis	44.05	Public Policy
+social work	44.07	Social Work
+public administration and social service professions other	44.99	Public Administration
+social sciences general	45.01	General Social Sciences
+anthropology	45.02	Anthropology And Archeology
+archeology	45.03	Anthropology And Archeology
+criminology	45.04	Criminology
+demography and population studies	45.05	Anthropology And Archeology
+economics	45.06	Economics
+geography and cartography	45.07	Geography
+international relations and national security studies	45.09	International Relations
+political science and government	45.10	Political Science And Government
+sociology	45.11	Sociology
+urban studiesaffairs	45.12	Public Policy
+sociology and anthropology	45.13	Anthropology And Archeology
+rural sociology	45.14	Sociology
+social sciences other	45.99	Miscellaneous Social Sciences
+construction trades general	46.00	Construction Services
+masonmasonry	46.01	Construction Services
+carpenters	46.02	Construction Services
+electrical and power transmission installers	46.03	Electrical Engineering Technology
+buildingconstruction finishing management and inspection	46.04	Construction Services
+plumbing and related water supply services	46.05	Construction Services
+construction trades other	46.99	Construction Services
+mechanics and repairers general	47.00	Mechanical Engineering Related Technologies
+electricalelectronics maintenance and repair technology	47.01	Electrical Engineering Technology
+heating air conditioning ventilation and refrigeration maintenance technologytechnician hac hacr hvac hvacr	47.02	Engineering Technologies
+heavyindustrial equipment maintenance technologies	47.03	Mechanical Engineering Related Technologies
+precision systems maintenance and repair technologies	47.04	Electrical, Mechanical, And Precision Technologies And Production
+vehicle maintenance and repair technologies	47.06	Transportation Sciences And Technologies
+mechanic and repair technologiestechnicians other	47.99	Mechanical Engineering Related Technologies
+precision production trades general	48.00	Electrical, Mechanical, And Precision Technologies And Production
+leatherworking and upholstery	48.03	Engineering Technologies
+precision metal working	48.05	Electrical, Mechanical, And Precision Technologies And Production
+woodworking	48.07	Engineering Technologies
+boilermakingboilermaker	48.08	Mechanical Engineering Related Technologies
+precision production other	48.99	Electrical, Mechanical, And Precision Technologies And Production
+air transportation	49.01	Transportation Sciences And Technologies
+ground transportation	49.02	Transportation Sciences And Technologies
+marine transportation	49.03	Transportation Sciences And Technologies
+transportation and materials moving other	49.99	Transportation Sciences And Technologies
+visual and performing arts general	50.01	Visual And Performing Arts
+craftscraft design folk art and artisanry	50.02	Fine Arts
+dance	50.03	Fine Arts
+design and applied arts	50.04	Commercial Art And Graphic Design
+dramatheatre arts and stagecraft	50.05	Drama And Theater Arts
+filmvideo and photographic arts	50.06	Film Video And Photographic Arts
+fine and studio arts	50.07	Studio Arts
+music	50.09	Music
+arts entertainmentand media management	50.10	Mass Media
+visual and performing arts other	50.99	Visual And Performing Arts
+health servicesallied healthhealth sciences general	51.00	General Medical And Health Services
+chiropractic	51.01	General Medical And Health Services
+communication disorders sciences and services	51.02	Communication Disorders Sciences And Services
+dentistry	51.04	General Medical And Health Services
+advancedgraduate dentistry and oral sciences	51.05	General Medical And Health Services
+dental support services and allied professions	51.06	General Medical And Health Services
+health and medical administrative services	51.07	Health And Medical Administrative Services
+allied health and medical assisting services	51.08	Medical Assisting Services
+allied health diagnostic intervention and treatment professions	51.09	General Medical And Health Services
+clinicalmedical laboratory scienceresearch and allied professions	51.10	Medical Technologies Technicians
+healthmedical preparatory programs	51.11	Health And Medical Preparatory Programs
+medicine	51.12	General Medical And Health Services
+medical clinical sciencesgraduate medical studies	51.14	General Medical And Health Services
+mental and social health services and allied professions	51.15	Miscellaneous Health Medical Professions
+optometry	51.17	Miscellaneous Health Medical Professions
+ophthalmic and optometric support services and allied professions	51.18	Miscellaneous Health Medical Professions
+osteopathic medicineosteopathy	51.19	Miscellaneous Health Medical Professions
+pharmacy pharmaceutical sciences and administration	51.20	Pharmacy Pharmaceutical Sciences And Administration
+podiatric medicinepodiatry	51.21	Miscellaneous Health Medical Professions
+public health	51.22	Public Policy
+rehabilitation and therapeutic professions	51.23	Treatment Therapy Professions
+veterinary medicine	51.24	Animal Sciences
+veterinary biomedical and clinical sciences	51.25	Animal Sciences
+health aidesattendantsorderlies	51.26	Medical Assisting Services
+medical illustration and informatics	51.27	Miscellaneous Business & Medical Administration
+dietetics and clinical nutrition services	51.31	Nutrition Sciences
+bioethicsmedical ethics	51.32	Philosophy And Religious Studies
+alternative and complementary medicine and medical systems	51.33	General Medical And Health Services
+alternative and complementary medical support services	51.34	General Medical And Health Services
+somatic bodywork and related therapeutic services	51.35	General Medical And Health Services
+movement and mindbody therapies and education	51.36	General Medical And Health Services
+energy and biologically based therapies	51.37	General Medical And Health Services
+registered nursing nursing administration nursing research and clinical nursing	51.38	Nursing
+practical nursing vocational nursing and nursing assistants	51.39	Nursing
+health professions and related clinical sciences other	51.99	General Medical And Health Services
+businesscommerce general	52.01	Business Economics
+business administration management and operations	52.02	Business Management And Administration
+accounting and related services	52.03	Accounting
+business operations support and assistant services	52.04	Business Management And Administration
+businesscorporate communications	52.05	Advertising And Public Relations
+businessmanagerial economics	52.06	Business Economics
+entrepreneurial and small business operations	52.07	Business Management And Administration
+finance and financial management services	52.08	Finance
+hospitality administrationmanagement	52.09	Hospitality Management
+human resources management and services	52.10	Human Resources And Personnel Management
+international business	52.11	International Business
+management information systems and services	52.12	Management Information Systems And Statistics
+management sciences and quantitative methods	52.13	Management Information Systems And Statistics
+marketing	52.14	Marketing And Marketing Research
+real estate	52.15	Marketing And Marketing Research
+taxation	52.16	Accounting
+insurance	52.17	Actuarial Science
+general sales merchandising and related marketing operations	52.18	Marketing And Marketing Research
+specialized sales merchandising and marketing operations	52.19	Marketing And Marketing Research
+construction management	52.20	Construction Services
+telecommunications management	52.21	Business Management And Administration
+business management marketing and related support services other	52.99	Business Management And Administration
+high schoolsecondary diploma programs	53.01	General Education
+high schoolsecondary certificate programs	53.02	General Education
+history	54.01	History
+dental residency programs	60.01	Miscellaneous Health Medical Professions
+veterinary residency programs	60.03	Miscellaneous Health Medical Professions
+medical residency programs general certificates	60.04	Miscellaneous Health Medical Professions
+medical residency programs subspecialty certificates	60.05	Miscellaneous Health Medical Professions
+podiatric medicine residency programs	60.06	Miscellaneous Health Medical Professions
